@@ -1,0 +1,2 @@
+# Wriggles
+Wriggle  A Arduino-based, 1D, LED Video Game created by the Design | Engineer | Create makerspace located in Swansboro NC.  The game was brought to us by one of our members, inspired by the game TWANG.  We immediately thought, WOW!  This is a great idea!! So Here it is!  The following is 100% FREE to use, replicate, enhance, and pass on to others.  We hope you get the same enjoyment out of it building and using yours as we have!
